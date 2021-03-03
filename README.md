@@ -1,2 +1,2 @@
 # Markov-chains
-Markov chain visualization
+How to visualize Markov chains? 
